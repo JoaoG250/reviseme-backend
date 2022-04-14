@@ -1,9 +1,9 @@
-# ESDM
+# reviseme-backend
 
-ESDM subject project repository
+Backend for the reviseme app
 
-[![lint Actions Status](https://github.com/JoaoG250/ESDM/workflows/lint/badge.svg)](https://github.com/JoaoG250/ESDM/actions)
-[![tests Actions Status](https://github.com/JoaoG250/ESDM/workflows/tests/badge.svg)](https://github.com/JoaoG250/ESDM/actions)
+[![lint Actions Status](https://github.com/JoaoG250/reviseme-backend/workflows/lint/badge.svg)](https://github.com/JoaoG250/reviseme-backend/actions)
+[![tests Actions Status](https://github.com/JoaoG250/reviseme-backend/workflows/tests/badge.svg)](https://github.com/JoaoG250/reviseme-backend/actions)
 
 ### Dependencies
 
